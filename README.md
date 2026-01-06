@@ -17,7 +17,7 @@ Takas Glue | All-Purpose
   <a href="tel:0716731122" class="button call">
   <a href="tel:0362247579" class="button call"> <a>
   <br>
-  <a href="https://wa.me/94362247579" target="_blank" class="button whatsapp">
+  <a href="https://wa.me/94716731122" target="_blank" class="button whatsapp">
     💬 Order on WhatsApp
   </a>
 </header>
@@ -26,7 +26,8 @@ Takas Glue | All-Purpose
 <section>
   <h2>Why Choose Takas?</h2>
   <p>
-    Takas is a Sri Lankan all-purpose glue brand made for everyday use.
+    Takas, you may not have seen or heard about something even similar to it.
+    It is the game changer for glue users.
     From school projects and paper crafts to household and light wood work,
     Takas provides strong bonding at a super affordable price.
   </p>
@@ -50,11 +51,11 @@ Takas Glue | All-Purpose
       <h3>5l - Heavy use</h3>
       <p>suitable for frequent users and workshops
       </p>
-      <h3>20l - Bulk supply</h3>
-      <p>Perfect for schools, institution and resellers.</p>
+      <p>20l - Bulk supply </p>
+      <h3>the best for schools, institution and office usage.</h3>
 <!-- FEATURE -->
 <section>
-  <h2>Precision Slim Nozzle</h2>
+  <h2>our newest slim nozel edition</h2>
   <p>
     Our special slim-nozzle bottle allows precise and clean application.
     Ideal for detailed work with less waste and no mess.
@@ -100,7 +101,8 @@ Takas Glue | All-Purpose
 <footer>
   <p><strong>TAKAS</strong> – Strong. Simple. Affordable.</p>
   <p>Wickramasinhe Enterprise</p>
-</footer>
+</foot>
 
-</body>
-</html>
+(**header**WICKRAMASINHE ENTERPRISE)
+<p>producing the best as possible</p>
+<h3>thousand's of experienced lab assistants every year</h3>
