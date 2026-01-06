@@ -5,89 +5,7 @@ The best and affordable glue in Sri Lanka
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Takas Glue | All-Purpose Affordable Glue</title>
-
-<style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  color: #333;
-}
-
-header {
-  background: #1f3c88;
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-header h1 {
-  font-size: 36px;
-  margin-bottom: 10px;
-}
-
-header p {
-  font-size: 16px;
-  margin-bottom: 20px;
-}
-
-.button {
-  display: inline-block;
-  margin: 8px;
-  padding: 12px 22px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-size: 16px;
-  color: white;
-}
-
-.call {
-  background: #2d89ef;
-}
-
-.whatsapp {
-  background: #25D366;
-}
-
-section {
-  padding: 30px 20px;
-  max-width: 1000px;
-  margin: auto;
-}
-
-h2 {
-  text-align: center;
-  color: #1f3c88;
-  margin-bottom: 20px;
-}
-
-.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 15px;
-}
-
-.card {
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-ul {
-  padding-left: 20px;
-}
-
-footer {
-  background: #1f3c88;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  font-size: 14px;
-}
-</style>
-</head>
+Takas Glue | All-Purpose 
 
 <body>
 
@@ -96,8 +14,8 @@ footer {
   <h1>TAKAS</h1>
   <p>Strong Bonds for Everyday Life</p>
 
-  <a href="tel:0716731122" class="button call">📞 Call 071 673 1122</a>
-  <a href="tel:0362247579" class="button call">📞 Call 036 224 7579</a>
+  <a href="tel:0716731122" class="button call">
+  <a href="tel:0362247579" class="button call"> <a>
   <br>
   <a href="https://wa.me/94362247579" target="_blank" class="button whatsapp">
     💬 Order on WhatsApp
@@ -123,29 +41,17 @@ footer {
       <h3>50ml – Everyday Carry</h3>
       <p>Compact and easy to carry. Perfect for preschool work and quick fixes.</p>
     </div>
-
-    <div class="card">
-      <h3>100ml – School & Crafts</h3>
-      <p>Ideal for students, paper crafts, and school projects.</p>
-    </div>
-
-    <div class="card">
-      <h3>1L – Household Use</h3>
-      <p>Best for regular home usage and long-term value.</p>
-    </div>
-
-    <div class="card">
-      <h3>5L – Heavy Use</h3>
-      <p>Suitable for frequent users and workshops.</p>
-    </div>
-
-    <div class="card">
-      <h3>20L – Bulk Supply</h3>
-      <p>Perfect for schools, institutions, and resellers.</p>
-    </div>
   </div>
 </section>
-
+      <h3>100ml - school and crafts</h3>
+      <p>Ideal for students,paper crafts and school projects.</p>
+      <h3>1l - household use</h3>
+      <p>Best for regular home usage and long tearm usage</p>
+      <h3>5l - Heavy use</h3>
+      <p>suitable for frequent users and workshops
+      </p>
+      <h3>20l - Bulk supply</h3>
+      <p>Perfect for schools, institution and resellers.</p>
 <!-- FEATURE -->
 <section>
   <h2>Precision Slim Nozzle</h2>
