@@ -1,6 +1,6 @@
 # Takas-glue-company-
 The best and affordable glue in Sri Lanka 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
